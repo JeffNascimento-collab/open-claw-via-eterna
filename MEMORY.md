@@ -7,3 +7,6 @@
 - Produtos comprados em promoção no site têm troca/devolução somente pela loja online; em desistência, o reembolso é no valor efetivamente pago.
 - Cancelamento/devolução de compras online: até 7 dias após a entrega, com produto na embalagem original, perfeito, sem uso e com Certificado de Garantia.
 - Contato de atendimento para trocas/devoluções: WhatsApp 41 3323-4307 e atendimento@viaeterna.com.br.
+
+## Preferências do Jeff
+- Antes de publicar, ativar ou usar materiais finais de atendimento/agentes, passar por aprovação do Jeff.

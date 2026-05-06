@@ -76,7 +76,20 @@ Quando o cliente demonstrar interesse em um produto, pergunte:
 - Após o cliente escolher/confirmar a loja, **encaminhe o contato da loja** e oriente: 
   - "Fale com nossas vendedoras dessa loja para confirmarem o estoque do produto que você tem interesse."
 
-> **Observação:** a lista de contatos das lojas físicas deve ficar cadastrada aqui nesta base. (PENDENTE: inserir lista de contatos das lojas.)
+> **Observação:** após o cliente escolher/confirmar a loja, sempre encaminhar o contato abaixo para falar com as vendedoras e confirmar estoque.
+
+### Lojas físicas — contatos (WhatsApp)
+- Iguatemi Esplanada — https://api.whatsapp.com/send/?phone=551532110963&text&type=phone_number&app_absent=0
+- Shopping Jaraguá — https://api.whatsapp.com/send/?phone=551633198785&text&type=phone_number&app_absent=0
+- Ribeirão Shopping — https://api.whatsapp.com/send/?phone=551636217878&text&type=phone_number&app_absent=0
+- Parque D. Pedro Shopping — https://api.whatsapp.com/send/?phone=551933966055&text&type=phone_number&app_absent=0
+- Shopping Tamboré — https://api.whatsapp.com/send/?phone=551143827888&text&type=phone_number&app_absent=0
+- Shopping Piracicaba — https://api.whatsapp.com/send/?phone=551934217774&text&type=phone_number&app_absent=0
+- Polo Shopping Indaiatuba — https://api.whatsapp.com/send/?phone=551938355179&text&type=phone_number&app_absent=0
+- Maxi Shopping — https://api.whatsapp.com/send/?phone=551145212257&text&type=phone_number&app_absent=0
+- Novo Shopping — https://api.whatsapp.com/send/?phone=551632375906&text&type=phone_number&app_absent=0
+- Pátio Cianê Shopping — https://api.whatsapp.com/send/?phone=551532326663&text&type=phone_number&app_absent=0
+- Iguatemi Campinas — https://api.whatsapp.com/send/?phone=551932528810&text&type=phone_number&app_absent=0
 
 ### 1. Identificar a intenção
 Classifique a solicitação em uma destas categorias:

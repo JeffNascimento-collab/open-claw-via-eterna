@@ -3,7 +3,7 @@
 ## 1. Resposta inicial — troca
 Olá! Vou te ajudar com isso.
 
-Na Via Eterna, a troca pode ser solicitada em até **30 dias corridos** após a compra (loja física) ou após a entrega (loja online).
+Na Via Eterna, a troca pode ser solicitada em até **30 dias corridos** após a compra (loja física) ou após a entrega (loja online). 
 
 Para seguir, a joia precisa estar:
 - em perfeito estado
@@ -19,7 +19,7 @@ Se quiser, me diga se sua compra foi no **site** ou na **loja física**.
 ## 2. Resposta inicial — devolução de compra online
 Olá! Vou te orientar.
 
-Para compras feitas no site, a devolução pode ser solicitada em até **7 dias corridos após a entrega**.
+Para compras feitas no site, a devolução sem custo de envio pode ser solicitada em até **7 dias corridos após a entrega**.
 
 Para isso, o produto precisa estar:
 - na embalagem original
